@@ -10,3 +10,6 @@ all path settings
 build the project
 
 java -jar jenkins.war --httpPort=8888
+
+jenkins formaula to build logic
+*/5 ****
